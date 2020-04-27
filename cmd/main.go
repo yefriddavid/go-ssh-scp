@@ -11,7 +11,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/labs/scp/cmd/console"
+	"github.com/yefriddavid/go-ssh-scp/cmd/console"
 
 	"github.com/kevinburke/ssh_config"
 	"golang.org/x/crypto/ssh"
